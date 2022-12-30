@@ -1,6 +1,5 @@
 # Eren Tokmak
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/erentokmak/github-profile-summary-cards)
