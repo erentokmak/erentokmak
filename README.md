@@ -1,4 +1,4 @@
-# github-profile-summary-cards-example
+# Eren Tokmak
 
 :star: [Tutorial](https://github.com/erentokmak/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
