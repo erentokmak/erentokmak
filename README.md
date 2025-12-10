@@ -4,8 +4,45 @@
 
 ### Full Stack Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/erentokmak?style=for-the-badge&logo=github&color=3b82f6&labelColor=1e293b)](https://github.com/erentokmak)
-[![GitHub stars](https://img.shields.io/github/stars/erentokmak?style=for-the-badge&logo=github&color=3b82f6&labelColor=1e293b)](https://github.com/erentokmak)
+</div>
+
+---
+
+## 🎯 Contribution Highlights
+
+<div align="center">
+
+### 🏆 13,430+ Contributions on GitHub
+
+[![GitHub contributions](https://img.shields.io/badge/GitHub_Contributions-13,430+-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=10b981&labelColor=1e293b)](https://github.com/erentokmak)
+
+</div>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+
+### 🎯 Profile Overview & Contributions
+
+[![Profile Details](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/erentokmak/github-profile-summary-cards)
+
+<br/>
+
+### 💻 Language Distribution
+
+[![Repos per Language](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/erentokmak/github-profile-summary-cards)
+[![Most Commit Language](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/erentokmak/github-profile-summary-cards)
+
+<br/>
+
+### 📈 Statistics & Productive Time
+
+[![Stats](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/erentokmak/github-profile-summary-cards)
+[![Productive Time](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/erentokmak/github-profile-summary-cards)
+
+<br/>
 
 </div>
 
@@ -41,22 +78,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-[![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/erentokmak/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/erentokmak/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/erentokmak/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/erentokmak/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/erentokmak/erentokmak/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/erentokmak/github-profile-summary-cards)
-
-</div>
-
----
-
-<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/erentokmak?style=for-the-badge&logo=github&color=3b82f6&labelColor=1e293b)](https://github.com/erentokmak)
+[![GitHub stars](https://img.shields.io/github/stars/erentokmak?style=for-the-badge&logo=github&color=3b82f6&labelColor=1e293b)](https://github.com/erentokmak)
 
 ### 💼 Currently Working On
 Modern full-stack applications with Next.js, .NET, and GraphQL
@@ -64,16 +89,10 @@ Modern full-stack applications with Next.js, .NET, and GraphQL
 ### 🔥 Always Learning
 Exploring new technologies and best practices in web development
 
-</div>
-
 ---
-
-<div align="center">
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 Made with ❤️ using Next.js and TypeScript
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erentokmak&layout=compact&theme=blue-green&bg_color=1e293b&title_color=3b82f6&text_color=e2e8f0&hide_border=true)](https://github.com/erentokmak)
 
 </div>
