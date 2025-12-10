@@ -12,9 +12,11 @@
 
 <div align="center">
 
-### 🏆 13,430+ Contributions on GitHub
+### 🏆 **13,430+ Contributions on GitHub** 🏆
 
 [![GitHub contributions](https://img.shields.io/badge/GitHub_Contributions-13,430+-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=10b981&labelColor=1e293b)](https://github.com/erentokmak)
+
+<sub>*Continuous learning and contribution to open source*</sub>
 
 </div>
 
